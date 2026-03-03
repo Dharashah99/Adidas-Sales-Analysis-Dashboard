@@ -10,10 +10,15 @@ ________________________________________
 3️⃣ Tech Stack
 
 •	📊  Power BI Desktop – Data modeling & dashboard development
+
 •	📂 Power Query – Data cleaning and transformation
+
 •	🧮 DAX (Data Analysis Expressions) – KPI calculations & measures
+
 •	📝 Data Modeling – Relationships & calculated columns
+
 •	📁 Excel / CSV Dataset – Source data
+
 ________________________________________
 
 4️⃣ Features and Highlights
@@ -24,21 +29,32 @@ Adidas sales data is distributed across multiple dimensions such as regions, sal
 
 The key challenges include:
 •	Identifying top-performing products and regions
+
 •	Understanding monthly sales trends
+
 •	Evaluating sales channel performance
+
 •	Tracking profitability and operating margin
+
 •	Supporting strategic retail and pricing decisions
+
 Without a centralized dashboard, extracting actionable insights becomes time-consuming and inefficient.
+
 ________________________________________
 
 🔹 Goal of the Dashboard
 
 The goal of this dashboard is to:
 •	Provide a comprehensive sales performance overview
+
 •	Monitor KPIs in real time
+
 •	Identify high-performing and underperforming segments
+
 •	Enable interactive filtering by Region and Invoice Date
+
 •	Support management in making strategic business decisions
+
 ________________________________________
 
 🔹 Walkthrough of Key Visuals
@@ -57,9 +73,13 @@ ________________________________________
 📈 Total Sales by Month (Line Chart)
 
 •	Displays monthly sales trend.
+
 •	Highlights peak sales months (July & August).
+
 •	Identifies seasonal demand fluctuations.
+
 •	Helps in forecasting and inventory planning.
+
 ________________________________________
 
 🛍️ Total Sales by Sales Method (Donut Chart)
@@ -108,19 +128,29 @@ ________________________________________
 🔹 Business Impact and Insights
 
 •	📊 Identified Men’s Street Footwear as the top revenue-generating category.
+
 •	🌍 West region contributes the highest share of total sales.
+
 •	🏬 West Gear and Foot Locker are leading retail partners.
+
 •	📅 Sales peak in mid-year (July–August), indicating seasonality.
+
 •	💰 Strong operating margin (42%) indicates healthy profitability.
+
 
 Strategic Value:
 
 •	Improve investment in high-performing regions.
+
 •	Strengthen partnerships with top retailers.
+
 •	Expand high-demand product lines.
+
 •	Optimize underperforming sales channels.
+
 •	Support executive-level reporting with real-time KPIs.
+
 ________________________________________
 
 📷 Dashboard Preview
-
+https://github.com/Dharashah99/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas_Sales_Analysis.png
