@@ -158,4 +158,5 @@ Strategic Value:
 ________________________________________
 
 📷 Dashboard Preview
+
 <img width="1312" height="740" alt="Adidas_Sales_Analysis" src="https://github.com/user-attachments/assets/70dbd4dc-f006-4c12-81da-02a37f6f46af" />
