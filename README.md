@@ -67,6 +67,7 @@ The dashboard highlights key performance indicators:
 •	Number of Units Sold: 2M
 •	Price per Unit: $45
 •	Operating Margin: 42%
+
 These KPIs provide an instant overview of overall business health.
 ________________________________________
 
@@ -88,6 +89,7 @@ Breakdown by:
 •	In-store
 •	Outlet
 •	Online
+
 This visual helps evaluate channel effectiveness and digital performance contribution.
 ________________________________________
 
@@ -99,6 +101,7 @@ Sales distribution across:
 •	Southeast
 •	South
 •	Midwest
+
 Useful for identifying high-revenue geographic markets and regional growth opportunities.
 ________________________________________
 
@@ -111,6 +114,7 @@ Top-performing categories:
 •	Women’s Street Footwear
 •	Men’s Apparel
 •	Women’s Athletic Footwear
+
 This helps in assortment planning and product investment decisions.
 ________________________________________
 
@@ -122,6 +126,7 @@ Top retailers:
 •	Kohl’s
 •	Amazon
 •	Walmart
+
 Supports partnership strategy and retailer performance analysis.
 ________________________________________
 
@@ -153,4 +158,4 @@ Strategic Value:
 ________________________________________
 
 📷 Dashboard Preview
-https://github.com/Dharashah99/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas_Sales_Analysis.png
+<img width="1312" height="740" alt="Adidas_Sales_Analysis" src="https://github.com/user-attachments/assets/70dbd4dc-f006-4c12-81da-02a37f6f46af" />
